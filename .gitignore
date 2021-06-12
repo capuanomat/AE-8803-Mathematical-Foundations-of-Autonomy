@@ -1,0 +1,4 @@
+*DS_STORE
+
+# Jupyter notebooks
+*.ipynb_checkpoints*
